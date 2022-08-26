@@ -33,9 +33,7 @@ p {
   text-align: center;
   font-size: 30px;
 }
-LOL { 
-    text-align: right;
+#LOL{ 
     height: auto;
-    font-weight: auto;
-    display: block;
+    width: auto;
 }
