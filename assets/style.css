@@ -38,8 +38,9 @@ p {
     width: auto;
 }
 @media screen and (min-width:400px) {
-   body {
+   header {
     flex-wrap: wrap;
+    
    }
     
 }
